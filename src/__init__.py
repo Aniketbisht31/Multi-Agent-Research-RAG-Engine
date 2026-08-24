@@ -1,0 +1,1 @@
+"""Verity MCP application package."""
